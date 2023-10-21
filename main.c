@@ -83,7 +83,7 @@ int main(){
     			scanf("%lf", &a);
     			printf("Enter power n for operand: ");
     			scanf("%lf", &b);
-    			printf("%.1lf ^ %.1lf = %.3lf",a,b,pow(a,b));
+    			printf("%.1lf ^ %.1lf = %.3lf\n",a,b,pow(a,b));
     			fprintf(fptr,"%.1lf ^ %.1lf = %.3lf\n",a,b,pow(a,b));
     			break;
 	        case 'r':

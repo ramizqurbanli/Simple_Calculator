@@ -1,2 +1,2 @@
 # Simple_Calculator
-Simple Calculator app in C language
+Simple Terminal Calculator app in C language
